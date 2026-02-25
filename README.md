@@ -8,7 +8,7 @@
 
 ## 在线尝试
 
-[Visualization](https://visual.ado.icu/)
+[Visualization](https://visual.3mo.me)
 
 ## 特性
 
@@ -20,8 +20,8 @@
 
 ## 主要技术
 
-* [vue@3](https://cn.vuejs.org/)
+* [vue@3](https://cn.vuejs.org)
 * [echarts@6](https://echarts.apache.org/zh/index.html)
 * [@antv/g6@4](https://g6.antv.vision/zh)
-* [rxjs@7](https://rxjs.dev/)
+* [rxjs@7](https://rxjs.dev)
 * [ant-design-vue@4](https://www.antdv.com/index)
