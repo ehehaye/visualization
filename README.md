@@ -23,5 +23,5 @@
 * [vue@3](https://cn.vuejs.org/)
 * [echarts@6](https://echarts.apache.org/zh/index.html)
 * [@antv/g6@4](https://g6.antv.vision/zh)
-* [rxjs@6](https://rxjs.dev/)
+* [rxjs@7](https://rxjs.dev/)
 * [ant-design-vue@4](https://www.antdv.com/index)
